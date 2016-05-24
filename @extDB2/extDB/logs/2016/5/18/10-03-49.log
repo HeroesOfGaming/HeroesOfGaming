@@ -1,0 +1,23 @@
+extDB2: Version: 71
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[11:03:49:604949 +01:00] [Thread 3936] extDB2: Database Type: MySQL
+[11:03:49:628042 +01:00] [Thread 3936] extDB2: Database Session Pool Started
+[11:03:49:632503 +01:00] [Thread 3936] extDB2: SQL_CUSTOM_V2: Loading Template Filename: D:\Steam Games\steamapps\common\Arma 3 Server\@extDB2\extDB\sql_custom_v2\altis-life-rpg-4.ini
+[11:03:49:632891 +01:00] [Thread 3936] extDB2: SQL_CUSTOM_V2: Version 8 Detected, Latest Version 12 Available
+[11:03:49:808033 +01:00] [Thread 9928] extDB2: SQL_CUSTOM_V2: Error StatementException: MySQL: [MySQL]: [Comment]: mysql_stmt_execute error	[mysql_stmt_error]: The user specified as a definer ('arma3'@'localhost') does not exist	[mysql_stmt_errno]: 1449	[mysql_stmt_sqlstate]: HY000	[statemnt]: CALL resetLifeVehicles;
+[11:03:49:808161 +01:00] [Thread 9928] extDB2: SQL_CUSTOM_V2: Wiping Statements + Session
+[11:03:49:808523 +01:00] [Thread 9928] extDB2: SQL_CUSTOM_V2: Error: UniqueID: 1 Input String: resetLifeVehicles
+[11:10:43:732908 +01:00] [Thread 3936] extDB2: Stopping ...

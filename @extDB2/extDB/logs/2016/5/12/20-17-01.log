@@ -1,0 +1,22 @@
+extDB2: Version: 71
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Version
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[21:17:01:711781 +01:00] [Thread 9336] extDB2: Database Type: MySQL
+[21:17:01:777626 +01:00] [Thread 9336] extDB2: Database Session Pool Started
+[21:17:01:784119 +01:00] [Thread 9336] extDB2: Failed to Load Protocol: SQL_CUSTOM_V2
+[21:18:03:524464 +01:00] [Thread 9336] extDB2: Error Unknown Protocol: 6511  Input String: 2:6511:housingCleanup:76561198105652771
+[21:18:03:564814 +01:00] [Thread 9336] extDB2: Error: Syntax error: Not a valid integer: Error Unknown Protocol
+[21:18:03:564846 +01:00] [Thread 9336] extDB2: Error: Input String 4:Error Unknown Protocol
+[21:18:10:335015 +01:00] [Thread 9336] extDB2: Stopping ...
